@@ -17,3 +17,4 @@ Alteração local
 Nova alteração local
 
 Alteração via editor local do github 3.
+Aqui o texto é livre
