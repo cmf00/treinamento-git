@@ -9,3 +9,5 @@ Alteração
 Alteração 2
 
 Alteração 3
+
+Alteração via editor local do github.
